@@ -1,0 +1,7 @@
+pg-data/
+node_modules/
+logs/
+.env
+.git-credentials
+./builder.sh
+dist/
